@@ -36,7 +36,7 @@ I have a strong appetite for learning and keeping up with the latest trends in t
 
 I'm always excited to collaborate on interesting projects and explore new opportunities. Feel free to reach out to me through the following channels:
 
-- GitHub: [Your GitHub Profile](https://github.com/nitsaw09)
-- Email: [Your Email Address](mailto:niteshghuge09@gmail.com)
+- GitHub: [https://github.com/nitsaw09](https://github.com/nitsaw09)
+- Email: [niteshghuge09@gmail.com](mailto:niteshghuge09@gmail.com)
 
 Let's innovate and build amazing software together! 😄
