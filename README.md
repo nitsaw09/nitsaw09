@@ -18,7 +18,7 @@ Here are some of the technologies and skills I'm proficient in:
 - Message Brokers: RabbitMQ, Kafka
 - Blockchain Technologies: Blockchain, EVM, Ethers.js, Web3.js, Solidity
 - Smart Contracts: Smart Contract Auditing, Hardhat
-- Blockchain Applications: NFT, DeFi, Dex
+- Blockchain Applications: NFT, DeFi, Dex, Metaverse, Web3 game
 - Containerization: Docker
 - Cloud Services: AWS
 - Testing: Unit Testing, Automated Testing
