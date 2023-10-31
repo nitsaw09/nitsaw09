@@ -8,21 +8,23 @@ Welcome to my GitHub profile! I'm a passionate and innovative software engineer 
 
 Here are some of the technologies and skills I'm proficient in:
 
-- Programming Languages: JavaScript, TypeScript
-- Backend Frameworks: Node.js, Express.js, Nest.js
-- Databases: MongoDB, MySQL, PostgreSQL
+- Programming Languages: JavaScript, TypeScript, Go, Solidity
+- Frontend Frameworks: React.js, Bootstrap
 - API Development: Restful API, GraphQL
-- Version Control: Git
-- CI/CD: Continuous Integration and Continuous Deployment
+- Backend Frameworks: Node.js, Express.js, Nest.js, Serverless.js
+- Databases: MySQL, MongoDB, PostgreSQL
+- Databases Library: Prisma, TypeORM, Sequelize, Mongoose
 - Caching: Redis
-- Message Brokers: RabbitMQ, Kafka
-- Blockchain Technologies: Blockchain, EVM, Ethers.js, Web3.js, Solidity
-- Smart Contracts: Smart Contract Auditing, Hardhat
-- Blockchain Applications: NFT, DeFi, Dex, Metaverse, Web3 game
+- Testing: Jest, Unit Testing, E2E Testing
+- Cloud: AWS, Firebase, Heruko
 - Containerization: Docker
-- Cloud Services: AWS
-- Testing: Unit Testing, Automated Testing
-- Microservices Architecture
+- Message Brokers: RabbitMQ, Kafka
+- Blockchain: EVM, Ethers.js, Web3.js, Bitcoinjs, Solidity, on-chain, off-chain, cross-chain, IPFS, Hardhat
+- Blockchain Applications: NFT, DeFi, DEX, CEX, Metaverse, Web3 game
+- Blockchain Wallet: Metamask, Coinbase, Wallet Connect, Phantom, Fireblock
+- Blockchain Network: Ethereum, Binance, Polygon, Bitcoin and Solana.
+- Version Control: Git, GitHub, Bitbucket, Gitlab
+- Other: Microservices Architecture, Design pattern, SOLID design principle, algorithm, data structure, Webhook, WebSocket, Social Auth Login, Cryptography, Payment gateway, Swagger UI, KYC, AML
 
 ### 🔥 Passionate about Usability
 
