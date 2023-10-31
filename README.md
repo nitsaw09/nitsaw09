@@ -36,7 +36,6 @@ I have a strong appetite for learning and keeping up with the latest trends in t
 
 I'm always excited to collaborate on interesting projects and explore new opportunities. Feel free to reach out to me through the following channels:
 
-- GitHub: [https://github.com/nitsaw09](https://github.com/nitsaw09)
-- Discord: [nitesh#1896](https://discordapp.com/users/Nitesh#1896)
+- Website: [https://niteshg.vercel.app](https://niteshg.vercel.app)
 
 Let's innovate and build amazing software together! 😄
