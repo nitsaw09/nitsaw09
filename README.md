@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and innovative software engineer 
 
 Here are some of the technologies and skills I'm proficient in:
 
-- **Programming Languages:** JavaScript, TypeScript, Go, Solidity
+- **Programming Languages:** JavaScript, TypeScript, Rust, Solidity
 - **Frontend Frameworks:** React.js, Bootstrap
 - **API Development:** Restful API, GraphQL
 - **Backend Frameworks:** Node.js, Express.js, Nest.js, Serverless.js
